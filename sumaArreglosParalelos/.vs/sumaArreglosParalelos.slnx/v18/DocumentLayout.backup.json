@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Maestr\u00EDa\\Computo en la nube\\proyectosOMP\\sumaArreglosParalelos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{704A4E50-6480-4A4C-955D-2BDFAC19F899}|sumaArreglosParalelos.vcxproj|D:\\Maestr\u00EDa\\Computo en la nube\\proyectosOMP\\sumaArreglosParalelos\\sumaArreglosParalelos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{704A4E50-6480-4A4C-955D-2BDFAC19F899}|sumaArreglosParalelos.vcxproj|solutionrelative:sumaArreglosParalelos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sumaArreglosParalelos.cpp",
+              "DocumentMoniker": "D:\\Maestr\u00EDa\\Computo en la nube\\proyectosOMP\\sumaArreglosParalelos\\sumaArreglosParalelos.cpp",
+              "RelativeDocumentMoniker": "sumaArreglosParalelos.cpp",
+              "ToolTip": "D:\\Maestr\u00EDa\\Computo en la nube\\proyectosOMP\\sumaArreglosParalelos\\sumaArreglosParalelos.cpp",
+              "RelativeToolTip": "sumaArreglosParalelos.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-30T07:06:08.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

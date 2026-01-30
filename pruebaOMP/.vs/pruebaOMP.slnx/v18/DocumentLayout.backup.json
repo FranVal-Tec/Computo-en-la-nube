@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Maestr\u00EDa\\Computo en la nube\\proyectosOMP\\pruebaOMP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8DE8BF-3F6D-4D63-9ABB-B27FE2534230}|pruebaOMP\\pruebaOMP.vcxproj|D:\\Maestr\u00EDa\\Computo en la nube\\proyectosOMP\\pruebaOMP\\pruebaOMP\\pruebaOMP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D8DE8BF-3F6D-4D63-9ABB-B27FE2534230}|pruebaOMP\\pruebaOMP.vcxproj|solutionrelative:pruebaOMP\\pruebaOMP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pruebaOMP.cpp",
+              "DocumentMoniker": "D:\\Maestr\u00EDa\\Computo en la nube\\proyectosOMP\\pruebaOMP\\pruebaOMP\\pruebaOMP.cpp",
+              "RelativeDocumentMoniker": "pruebaOMP\\pruebaOMP.cpp",
+              "ToolTip": "D:\\Maestr\u00EDa\\Computo en la nube\\proyectosOMP\\pruebaOMP\\pruebaOMP\\pruebaOMP.cpp",
+              "RelativeToolTip": "pruebaOMP\\pruebaOMP.cpp",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAewA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-30T06:30:19.058Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
